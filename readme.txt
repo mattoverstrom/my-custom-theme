@@ -15,5 +15,4 @@ Theme desc.
 = 1.0 =
 * Added new option
 
-== Resources ==
-* normalize.css http://necolas.github.io/normalize.css/, (C) 2012-2016 Nicolas Gallagher and Jonathan Neal, [MIT](http://opensource.org/licenses/MIT)
+
